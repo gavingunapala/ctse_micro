@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: delivery
-        image: it19123882/ctse_it19123882:5c3404f2b7c216a5379f3d838f33a516bc0dd930
+        image: gavingunapala/ctse_micro:95f458927da71e59485c83a2b82e805e07101e1e
         ports:
         - containerPort: 3000
